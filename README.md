@@ -1,5 +1,3 @@
-Here's a simple `README.md` file suitable for your GitHub repository. It explains what the project does, how to set it up, and how to run it:
-
 ````markdown
 # YouTube Relevance Finder with Gemini AI
 
