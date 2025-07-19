@@ -1,3 +1,5 @@
+"This is a Open source project initiated by me -you can fork, edit, a pull request" 
+
 ````markdown
 # YouTube Relevance Finder with Gemini AI
 
